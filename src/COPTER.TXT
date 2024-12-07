@@ -1,0 +1,65 @@
+msg=msg_f+msg_gb
+.msg_f:
+Merci d'utiliser un logiciel Olf Software...
+SCORE:
+HI
+SALLE:
+VIE:
+Paramˆtres de COPTER:
+     /? ou /H pour voir cet ‚cran
+     /J       pour jouer au Joystick
+     /M       pour jouer … la souris
+     /F##     pour charger le data-disk ## (de 00 … 99)
+     /L#      pour charger une ancienne partie (de 0 … 9)
+Jeu au clavier.
+Jeu … la souris.
+Jeu au Joystick.
+Chargement du data-disk
+Appuyez sur une touche...
+Salle de d‚but:
+Erreur d'‚criture sur disque
+non trouv‚.
+PARTIE A SAUVER (0-9) ?
+PARTIE A CHARGER (0-9) ?
+Abandonner la partie ?
+JOUEUR
+SORTIR
+CONTINUER PARTIE
+SON ON
+SON OFF
+FACILE
+MOYEN
+DIFFICILE
+JEU
+.msg_gb:
+Thanks for using an Olf Software program...
+SCORE:
+HI
+ROOM:
+LIFE:
+COPTER parameters:
+     /? or /H to see this screen
+     /J       to play with Joystick
+     /M       to play with Mouse
+     /F##     to load data-disk ## (from 00 to 99)
+     /L#      to load a game (from 0 to 9)
+Play with keyboard.
+Play with mouse.
+Play with joystick.
+Loading data-disk
+Press a key...
+First room:
+Disk write error
+not found.
+GAME TO SAVE (0-9) ?
+GAME TO LOAD (0-9) ?
+Abort game ?
+PLAYER
+EXIT
+LOAD A GAME
+SOUND ON
+SOUND OFF
+EASY
+MEDIUM
+HARD
+PLAY
