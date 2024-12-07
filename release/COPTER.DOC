@@ -1,0 +1,147 @@
+                                    COPTER
+                            (c)  Patrick Pr‚martin
+                               (c) Olf SOftware
+
+
+     Vous ˆtes employ‚ par la SSICMTG (Soci‚t‚ Sp‚ciale Inter-sid‚rale Contre
+     les Monstres en Tous Genres). Comme … leur habitude, vos employeurs vous
+     ont envoy‚ en mission aprŠs une trop brŠve entrevue.
+
+     Tout ce que vous savez est qu'une organisation malfaisante a r‚ussi … cr‚er
+     des champignons mutants. Ils rendent fous les personnes qui les absorbent,
+     mais le pire est que la maladie est contagieuse. Ils menacent de les
+     distribuer en les m‚langeant aux "Champignons de Paris" si les
+     gouvernements continuent … nier l'existence (et la provenance) des OVNIs.
+
+     La SSICMTG a donc d‚cid‚ de vous envoyer … la cueillette des champignons
+     nocifs. La promenade se fera en h‚licoptŠre dans une forˆt et des cavernes
+     gard‚es...
+
+     Nul ne sait quels sont les piŠges qui vous attendent, mais cette mission
+     doit absolument ˆtre r‚ussie, la survie de l'humanit‚ est en jeu.
+
+********************************************************************************
+
+     Ce logiciel est la propri‚t‚ de Patrick Pr‚martin, son auteur. Il est
+distribu‚ par Olf Software en tant que SHAREWARE. Si vous l'utilisez, veuillez
+payer les 100 FF demand‚s comme contribution … notre travail.
+
+
+     Ce jeu d'arcade a ‚t‚ con‡u en 1992 pour la version 1.0 … l'aide des
+utilitaires de Olf Software, ainsi que du compilateur Turbo Pascal de Borland.
+
+
+     Comme tous les logiciels Olf Software distribu‚s en Shareware, vous devez
+demander une licence d'utilisation. Si vous poss‚dez la version distribu‚e
+librement, vous ne pourrez utiliser ce jeu qu'un certain nombre de fois. De
+plus, les extensions ne fonctionneront qu'avec la version enregistr‚e du jeu.
+
+
+(maj du 05/12/2024 : adresse postale de l'epoque retiree du fichier, me contacter depuis https://developeur-pascal.fr ou https://olfsoftware.fr pour toute question)
+
+
+En ‚change de votre rŠglement, vous recevrez une version personnalis‚e avec le
+data-disk 01 gratuit (16 niveaux r‚serv‚s aux possesseurs de la licence) de
+COPTER. Le tout vous sera exp‚di‚ avec votre num‚ro d'utilisateur.
+
+
+     Vous pourrez ‚galement commander d'autres data-disks lorsqu'ils seront
+disponibles, ou nous envoyer vos propres tableaux … cr‚er, et … distribuer. A ce
+sujet, consultez le fichier TOPRINT.DOC accompagnant le jeu.
+
+********************************************************************************
+
+     Pour jouer, lancez le programme COPTER.EXE … partir de l'invite du DOS.
+Diverses options sont disponibles:
+
+          /J       : pour utiliser un Joystick (n'oubliez pas de le configurer …
+                     l'aide de SETSTICK.EXE avant de jouer pour la premiŠre
+                     fois).
+          /M       : pour d‚placer votre h‚licoptŠre … l'aide de la souris.
+          /Fdtdk   : pour utiliser un data disk, il vous suffit de remplacer
+                     dtdk par un num‚ro (sur deux chiffres: de 00 … 99). Cette
+                     option ne fonctionne qu'avec une licence utilisateur.
+          /Ln      : pour charger une partie sauvegard‚e (n est un chiffre de 0
+                     … 9).
+          /? ou /H : pour obtenir une aide sur le programme.
+
+
+Pendant le jeu, vous pourrez utiliser les touches suivantes:
+
+          P        : pour mettre le jeu en pause. Il suffit de r‚appuyez sur P
+                     pour continuer … jouer.
+          <ESC>    : pour quitter le jeu, vous devrez confirmer l'abandon du
+                     programme.
+          <F2>     : pour sauvegarder la partie en cours.
+          <F3>     : pour restaurer une partie sauvegard‚e.
+
+
+Les deux touches suivantes ne sont valables que sur des ordinateurs rapides:
+
+          <PgUp>   : pour acc‚l‚rer le jeu.
+          <PgDn>   : pour ralentir le jeu.
+
+********************************************************************************
+
+Configuration n‚cessaire:
+
+     Pour pouvoir jouer, il vous faudra un PC muni d'une carte graphique MCGA,
+     VGA, SVGA ou supŠrieure. Un ‚cran couleur est recommand‚ car le jeu est en
+     256 couleurs.
+
+     Si vous jouez au Joystick, il vous faudra un Joystick branch‚ sur
+     l'ordinateur (et vous devrez avoir lanc‚ SETSTICK.EXE au moins une fois) !
+
+     Si vous n'utilisez pas le Joystick (relativement lent), vous devrez
+     poss‚der un clavier ayant au moins des flŠches de d‚placement du curseur,
+     et une barre d'espacement. Vous pouvez aussi utiliser le pav‚ num‚rique.
+
+     Nous ne sommes pas encore en ‚tat de g‚rer les cartes sonores, mais ‡a
+     viendra un jour... Votre argent nous permettra d'acheter les cartes (pour
+     tester nos logiciels), ainsi que les Developper Kit associ‚s. Tout cela
+     co–te cher, et vous seul pouvez nous y aider.
+
+********************************************************************************
+
+     En plus du programme COPTER.EXE, vous trouverez les programmes suivants:
+
+          - SETDFLT.EXE : permet de choisir la langue dans laquelle vous jouez
+                          parmis les langues reconnues par le programme.
+          - SETSTICK.EXE : permet le calibrage des Joysticks. Il doit ˆtre lanc‚
+                           au moins une fois par ordinateur avant de jouer si
+                           vous utilisez un Joystick.
+          - READ.EXE : se trouvant avec tous les logiciels Olf Software, il vous
+                       permet de consulter les fichiers de documentation (comme
+                       celui-ci). Il vous suffit de taper READ COPTER.DOC pour
+                       consulter le fichier COPTER.DOC, si rien n'est sp‚cifi‚,
+                       vous lirez les fichiers de documentation officiels de
+                       Olf Software (OLF_F.DOC, OLF_GB.DOC, OLF_LST.DOC ...)
+
+
+     La curiosit‚ est un vilain d‚faut, mais vous pouvez reprendre nos fichiers
+de donn‚es (SPR, PAL...) … l'aide des nombreux utilitaires de Olf Software. Les
+routines de gestion de ces fichiers sont disponibles en FREEWARE chez diff‚rents
+distributeurs.
+
+     Si vous ne parlez ni l'anglais, ni le fran‡ais (je vous f‚licite d'avoir lu
+cette documentation) mais que vous connaissez des personnes capables de traduire
+les textes de ce programme, contactez nous (en anglais ou en fran‡ais de
+pr‚f‚rence, allemand simple accept‚).
+
+     Si vous ˆtes un distributeur de logiciels SHAREWARE, contactez-nous afin de
+distribuer les autres logiciels Olf Software, nous pourrions nous aider
+mutuellement.
+
+********************************************************************************
+
+     Chaque data-disk contient 16 nouveaux tableaux, ils ne fonctionnent qu'avec
+une version enregistr‚e de COPTER. Vous devez donc poss‚der une licence
+d'utilisateur pour en profiter.
+
+     Les data-disks suivants sont disponibles au prix de 30FF auprŠs de Olf
+Software. Ils ne sont vendus que par correspondance. Pour commander, imprimez et
+compl‚tez le fichier ASK_PGM.DOC
+
+#01 dat‚ du 11 Nov. 1992 et cr‚‚ par Patrick Pr‚martin.
+#02 dat‚ du 14 Nov. 1992 et cr‚‚ par Patrick Pr‚martin.
+#03 dat‚ du 15 Nov. 1992 et cr‚‚ par Patrick Pr‚martin.
