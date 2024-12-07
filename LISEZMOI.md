@@ -1,39 +1,41 @@
-# Delphi-Projects-Template
+# Copter - Turbo Pascal - MS-Dos - 1992
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
-Un modèle de dépôt git pour mes projets Delphi (ou autres).
+Inspiré du [jeu vidéo Fox](http://jeuxvideos8090.free.fr/index.php?Id_Soft=132) sorti en 1985 pour [micro ordinateurs Thomson TO7 et MO5](https://fr.wikipedia.org/wiki/Thomson_TO7/70), Copter nous place dans le rôle d'un pilote d'hélicoptère parti récolter des champignons dans des grottes pleines d'obstacles et de pièges.
 
-Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.
+Je vous propose ici de découvrir les codes sources du jeu et de ses éditeurs de niveaux développés en [Turbo Pascal](https://fr.wikipedia.org/wiki/Turbo_Pascal) pour MS-Dos en 1992.
 
-Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+Les versions compilées du jeu (en date du 17 avril 1995) et de ses programmes annexes sont disponibles dans le dossier "release" avec une première série de 16 niveaux de jeu. Les trois autres séries publiées de 16 salles sont également à votre disposition dans les dossiers "release-DLC" numérotés. Vous devriez pouvoir les exécuter sur un émulateur MS-Dos ou une version 8 bits de Windows (3.x, 95 et peut-être 98).
 
-## Installation
+Les éditeurs permettant de créer les fichiers annexes (curseur de souris, sprites, palette de couleurs, texts en plusieurs langues, ...) sont ou seront disponibles un jour sous forme de codes sources et de programmes compilés sur [mon compte GitHub](https://github.com/DeveloppeurPascal?tab=repositories&q=Maker+TurboPascal&type=&language=&sort=).
 
-Pour télécharger ce projet il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+Il est possible que ce programme soit compilable avec [Free Pascal](https://www.freepascal.org) mais je n'ai pas essayé. Les unités non fournies se trouvent dans le dépôt [DeveloppeurPascal/librairies-TurboPascal](https://github.com/DeveloppeurPascal/librairies-TurboPascal). S'il en manque faites le moi savoir pour que je les y ajoute.
 
-**Attention :** si le projet utilise des dépendances sous forme de sous modules ils seront absents du fichier ZIP. Vous devrez les télécharger à la main.
+Ce jeu vidéo a été recréé en 2021 durant des sessions de [streaming sur Twitch](https://www.twitch.tv/patrickpremartin). Rebaptisé [Champter](https://champter.gamolf.fr/) il fonctionne pareil mais bénéficie d'une refonte complète sous Delphi pour être utilisé sur Windows, Mac, Linux, iOS et Android. [Ses codes sources](https://github.com/DeveloppeurPascal/Champter) sont ouverts.
 
-## Dépendances
+Découvrez [mes autres projets open source en Turbo Pascal](https://github.com/DeveloppeurPascal?tab=repositories&q=TurboPascal&type=&language=&sort=) si l'archéologie logicielle vous branche.
 
-Ce dépôt de code dépend des dépôts suivants :
+## Présentations et conférences
 
-* project 1
-* project 2
+### Twitch
 
-## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
+Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+## Licence d'utilisation de ce dépôt de code et de son contenu
 
-Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
+Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure](https://choosealicense.com/licenses/agpl-3.0/).
 
-Vous pouvez aussi cloner ce dépôt de code et participer à ses évolutions en soumettant vos modifications si vous le désirez. Lisez les explications dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
+Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'importe où à condition :
+* d'en faire mention dans vos projets
+* de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
+* de diffuser les codes sources de vos créations sous licence AGPL
 
-## Modèle de licence double (seulement pour mes projets, pas pour ce modèle de dépôt de code)
+Si cette licence ne convient pas à vos besoins vous pouvez acheter un droit d'utilisation de ce projet sous la licence [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) ou une licence commerciale dédiée ([contactez l'auteur](https://developpeur-pascal.fr/nous-contacter.php) pour discuter de vos besoins).
 
-Ce projet est distribué sous licence [AGPL 3.0 ou ultérieure] (https://choosealicense.com/licenses/agpl-3.0/).
+Ces codes sources sont fournis en l'état sans garantie d'aucune sorte.
 
-Si vous voulez l'utiliser en totalité ou en partie dans vos projets mais ne voulez pas en partager les sources ou ne voulez pas distribuer votre projet sous la même licence, vous pouvez acheter le droit de l'utiliser sous la licence [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) ou une licence dédiée ([contactez l'auteur](https://developpeur-pascal.fr/nous-contacter.php) pour discuter de vos besoins).
+Certains éléments inclus dans ce dépôt peuvent dépendre de droits d'utilisation de tiers (images, sons, ...). Ils ne sont pas réutilisables dans vos projets sauf mention contraire.
 
 ## Supportez ce projet et son auteur
 

@@ -1,39 +1,41 @@
-# Delphi-Projects-Template
+# Copter - Turbo Pascal - MS-Dos - 1992
 
 [Cette page en français.](LISEZMOI.md)
 
-A git template for my Delphi (or others) projects.
+Inspired by the [Fox video game](http://jeuxvideos8090.free.fr/index.php?Id_Soft=132) released in 1985 for [Thomson TO7 and MO5 microcomputers](https://fr.wikipedia.org/wiki/Thomson_TO7/70), Copter places us in the role of a helicopter pilot out to harvest mushrooms in caves full of obstacles and traps.
 
-This template is distributed under MIT license. The AGPL license is for projects I create from this code repository template. Use the license you want if you use the template.
+Here you'll find the source codes for the game and its level editors, developed in [Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal) for MS-Dos in 1992.
 
-This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
+The compiled versions of the game (dated April 17, 1995) and its ancillary programs are available in the “release” folder, along with a first series of 16 game levels. The three other published series of 16 rooms are also available in the numbered “release-DLC” folders. You should be able to run them on an MS-Dos emulator or an 8-bit version of Windows (3.x, 95 and maybe 98).
 
-## Install
+The editors used to create the ancillary files (mouse cursor, sprites, color palette, texts in several languages, etc.) are or will one day be available as source code and compiled programs on [my GitHub account](https://github.com/DeveloppeurPascal?tab=repositories&q=Maker+TurboPascal&type=&language=&sort=).
 
-To download this project you better should use "git" command but you also can download a ZIP from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+It's possible that these programs are compilable with [Free Pascal](https://www.freepascal.org) but I haven't tried. Units not supplied can be found in the [DeveloppeurPascal/librairies-TurboPascal](https://github.com/DeveloppeurPascal/librairies-TurboPascal) repository. If any are missing, please let me know so that I can add them.
 
-**Warning :** if the project has submodules dependencies they wont be in the ZIP file. You'll have to download them manually.
+This video game was recreated in 2021 during [streaming sessions on Twitch](https://www.twitch.tv/patrickpremartin). Renamed [Champter](https://champter.gamolf.fr/), it works in the same way, but has been completely redesigned in Delphi for use on Windows, Mac, Linux, iOS and Android. [Its source codes](https://github.com/DeveloppeurPascal/Champter) are open.
 
-## Dependencies
+Check out [my other open source projects in Turbo Pascal](https://github.com/DeveloppeurPascal?tab=repositories&q=TurboPascal&type=&language=&sort=) if you're interested in software archeology.
 
-This project depends on :
+## Talks and conferences
 
-* project 1
-* project 2
+### Twitch
 
-## How to ask a new feature, report a bug or a security issue ?
+Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX) and [open a new issue](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+## License to use this code repository and its contents
 
-If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
+This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/).
 
-You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+You are generally free to use the contents of this code repository anywhere, provided that:
+* you mention it in your projects
+* distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
+* to distribute the source code of your creations under the AGPL license.
 
-## Dual licensing model (only for my projects, not for this code repository template)
+If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
 
-This project is distributed under [AGPL 3.0 or later](https://choosealicense.com/licenses/agpl-3.0/) license.
+These source codes are provided as is, without warranty of any kind.
 
-If you want to use it or a part of it in your projects but don't want to share the sources or don't want to distribute your project under the same license you can buy the right to use it under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
+Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
 
 ## Support the project and its author
 
